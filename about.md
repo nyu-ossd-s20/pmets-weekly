@@ -8,4 +8,4 @@ Some information about you!
 
 ### More Information
 
-Hi!! My name is Priya!!
+Hi!! My name is Priya studying Computer Science!!
