@@ -9,7 +9,7 @@ name: Priya
 
 # CUSTOMIZE
 # Short bio or description about you (displayed in the header)
-description: 
+description: Senior NYU studying CS
 
 # CUSTOMIZE
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
@@ -28,7 +28,7 @@ footer-links:
   email:
   facebook:
   flickr:
-  github: nyu-ossd-s20
+  github: pmets
   instagram:
   linkedin:
   pinterest:
@@ -43,14 +43,14 @@ footer-links:
 # It should be "/USER_NAME-weekly" in which USER_NAME is replaced by your actual
 # user name for GitHub.
 
-url: "https://nyu-ossd-s20.github.io/weekly"
+url: "https://nyu-ossd-s20.github.io/pmets-weekly"
 
 # CUSTOMIZE
 # Replace this with the name of your own repository.
 # It should be "/USER_NAME-weekly" in which USER_NAME is replaced by your actual
 # user name for GitHub.
 
-baseurl: "/weekly"
+baseurl: "/pmets-weekly"
 
 #
 # !! You don't need to change any of the configuration flags below !!
