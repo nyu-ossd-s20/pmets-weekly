@@ -16,14 +16,14 @@
 html {
   font-size: 100%;
 }
-
+//found the exact colors using https://www.gradient-animator.com/
 body {
 	background: linear-gradient(90deg, rgba(250,210,227,1) 0%, rgba(177,208,245,1) 100%);
 	animation: gradient 10s ease infinite;
   font: 18px/1.4 $helvetica;
   color: $darkGray;
 }
-
+//found at https://redstapler.co/css-animated-gradient-background/
 @keyframes gradient {
     0% {background-position: 0%}
     100% {background-position: 100%}
