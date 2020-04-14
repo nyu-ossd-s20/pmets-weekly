@@ -16,11 +16,12 @@
 html {
   font-size: 100%;
 }
-
+#grad{
+// 	 background: rgb(250,210,227);
+background-image: radial-gradient(circle, rgba(250,210,227,1) 0%, rgba(177,208,245,1) 100%);
+}
 body {
-// 	background: $white;
-  background: rgb(250,210,227);
-background: radial-gradient(circle, rgba(250,210,227,1) 0%, rgba(177,208,245,1) 100%);
+	background: $white;
   font: 18px/1.4 $helvetica;
   color: $darkGray;
 }
