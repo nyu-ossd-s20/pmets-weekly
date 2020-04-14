@@ -18,7 +18,9 @@ html {
 }
 
 body {
-	background: $white;
+// 	background: $white;
+  background: rgb(250,210,227);
+background: radial-gradient(circle, rgba(250,210,227,1) 0%, rgba(177,208,245,1) 100%);
   font: 18px/1.4 $helvetica;
   color: $darkGray;
 }
