@@ -20,22 +20,10 @@ html {
 body {
 	background: linear-gradient(90deg, rgba(250,210,227,1) 0%, rgba(177,208,245,1) 100%);
 	animation: gradient 10s ease infinite;
-	
-// 		$white;
   font: 18px/1.4 $helvetica;
   color: $darkGray;
 }
-// @keyframes gradient {
-// 	0% {
-// 		background-position: 0% 50%;
-// 	}
-// 	50% {
-// 		background-position: 100% 50%;
-// 	}
-// 	100% {
-// 		background-position: 0% 50%;
-// 	}
-// }
+
 @keyframes gradient {
     0% {background-position: 0%}
     100% {background-position: 100%}
